@@ -18,7 +18,7 @@ Smooth swaying of images of drinks, creating a live gallery effect.
 
 The animation can stop on hover (the element "freezes").
 
-## Technologies used
+## Technologies
 
 HTML5 semantic markup.
 
