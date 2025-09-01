@@ -3,7 +3,7 @@
 A single-page website dedicated to popular coffee beverages.
 
 **Description**
----
+--
 This website showcases various coffee drinks with photos, descriptions, and stylized titles. 
 Each drink section includes an image and a brief description, creating an engaging and informative layout for users.
 
